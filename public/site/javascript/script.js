@@ -1,0 +1,3 @@
+function doalert(){
+    alert("Aakriti");
+}
